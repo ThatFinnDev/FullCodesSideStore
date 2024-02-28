@@ -1,0 +1,29 @@
+{
+  "name": "FullCodes Apps",
+  "identifier": "at.fullcodes.appsoure",
+  "sourceURL": "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/repo.json",
+  "apps": [
+  {
+    "name": "Quixx",
+    "bundleIdentifier": "at.thatfinn.quixx",
+    "developerName": "ThatFinn",
+    "subtitle": "The most necessary app on planet earth",
+    "versions": [
+      {
+        "version": "1.4.7",
+        "date": "2024-02-28,
+        "localizedDescription": "Bug fixes.",
+        "downloadURL": "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/Quixx-1.4.7.ipa",
+        "size": 17640283
+      }
+    ],
+    "localizedDescription": "The most necessary app on planet earth",
+    "iconURL": "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/Quixx-icon.png",
+    "tintColor": "e81d0b",
+    "screenshotURLs": [
+      "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/Quixx-icon.png"
+    ],
+    "beta": false
+  }
+]
+}
