@@ -20,15 +20,15 @@
       }
     ],
     "localizedDescription": "The most necessary app on planet earth",
-    "iconURL": "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/Quixx-icon.png",
+    "iconURL": "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/at.thatfinn.quixx/icon.png",
     "tintColor": "E81D0B",
-    "appPermissions": [],
-    "permissions": [],
     "screenshotURLs": [
-      "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/Quixx-icon.png"
-    ],
-    "screenshots": [
-      "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/Quixx-icon.png"
+      "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/at.thatfinn.quixx/Screenshots/0.png",
+      "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/at.thatfinn.quixx/Screenshots/1.png",
+      "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/at.thatfinn.quixx/Screenshots/2.png",
+      "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/at.thatfinn.quixx/Screenshots/3.png",
+      "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/at.thatfinn.quixx/Screenshots/4.png",
+      "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/at.thatfinn.quixx/Screenshots/5.png"
     ],
     "beta": false
   }
