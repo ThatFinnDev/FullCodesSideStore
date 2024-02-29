@@ -2,12 +2,14 @@
   "name": "FullCodes Apps",
   "identifier": "at.fullcodes.appsoure",
   "sourceURL": "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/repo.json",
+  "userinfo": {},
   "apps": [
   {
     "name": "Quixx",
     "bundleIdentifier": "at.thatfinn.quixx",
     "developerName": "ThatFinn",
     "subtitle": "The most necessary app on planet earth",
+    "downloadURL": "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/Quixx-1.4.7.ipa",
     "versions": [
       {
         "version": "1.4.7",
