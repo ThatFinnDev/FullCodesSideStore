@@ -19,11 +19,17 @@
     ],
     "localizedDescription": "The most necessary app on planet earth",
     "iconURL": "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/Quixx-icon.png",
-    "tintColor": "e81d0b",
+    "tintColor": "E81D0B",
+    "appPermissions": [],
+    "permissions": [],
     "screenshotURLs": [
+      "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/Quixx-icon.png"
+    ],
+    "screenshots": [
       "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/Quixx-icon.png"
     ],
     "beta": false
   }
-]
+  ],
+  "news": []
 }
