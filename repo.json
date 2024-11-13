@@ -36,9 +36,9 @@
         "get-task-allow"
       ],
       "privacy": {
-        "NSPhotoLibraryUsageDescription": "",
-        "NSMicrophoneUsageDescription": "",
-        "NSCameraUsageDescription": ""
+        "NSPhotoLibraryUsageDescription": "Usage",
+        "NSMicrophoneUsageDescription": "Usage",
+        "NSCameraUsageDescription": "Usage"
       }
     },
   }
