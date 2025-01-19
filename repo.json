@@ -30,7 +30,17 @@
       "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/at.thatfinn.quixx/Screenshots/4.png",
       "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/at.thatfinn.quixx/Screenshots/5.png"
     ],
-    "beta": false
+    "beta": false,
+    "appPermissions": {
+      "entitlements": [
+        "get-task-allow"
+      ],
+      "privacy": {
+        "NSPhotoLibraryUsageDescription": "",
+        "NSMicrophoneUsageDescription": "",
+        "NSCameraUsageDescription": ""
+      }
+    }
   }
   ],
   "news": []
