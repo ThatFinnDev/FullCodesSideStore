@@ -2,13 +2,14 @@
   "name": "FullCodes Apps",
   "identifier": "at.fullcodes.appsoure",
   "sourceURL": "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/repo.json",
+  "connectOrganizationId": "38b612e2-e673-4fc1-b02e-bea6d06570b3",
   "userinfo": {},
   "apps": [
   {
     "name": "Quixx",
     "bundleIdentifier": "at.thatfinn.quixx",
     "developerName": "ThatFinn",
-    "subtitle": "The most necessary app on planet earth",
+    "subtitle": "Sheets for the game",
     "downloadURL": "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/Quixx-1.4.7.ipa",
     "versions": [
       {
@@ -19,7 +20,7 @@
         "size": 17640283
       }
     ],
-    "localizedDescription": "The most necessary app on planet earth",
+    "localizedDescription": "Sheets for the game",
     "iconURL": "https://raw.githubusercontent.com/ThatFinnDev/FullCodesSideStore/master/at.thatfinn.quixx/icon.png",
     "tintColor": "E81D0B",
     "screenshotURLs": [
