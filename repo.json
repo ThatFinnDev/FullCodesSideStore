@@ -36,9 +36,9 @@
         "get-task-allow"
       ],
       "privacy": {
-        "NSPhotoLibraryUsageDescription": "",
-        "NSMicrophoneUsageDescription": "",
-        "NSCameraUsageDescription": ""
+        "NSPhotoLibraryUsageDescription": "Quixx doesn't use the photo library, this desc is required because the game was made in Godot 3",
+        "NSMicrophoneUsageDescription": "Quixx doesn't use the microphone, this desc is required because the game was made in Godot 3",
+        "NSCameraUsageDescription": "Quixx doesn't use the camera, this desc is required because the game was made in Godot 3"
       }
     }
   }
